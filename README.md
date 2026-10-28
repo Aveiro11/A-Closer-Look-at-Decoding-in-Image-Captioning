@@ -1,4 +1,4 @@
-# Pixels to Sentences: A-Closer Look at Decoding in Image Captioning
+# Pixels to Sentences: A Closer Look at Decoding in Image Captioning
 
 An image captioning system on Flickr8k. The project is less about building the best captioner and more about two questions: **how we decode** (greedy vs. beam search vs. sampling) and **how we evaluate** (BLEU vs. CLIPScore vs. the model's own confidence).
 
